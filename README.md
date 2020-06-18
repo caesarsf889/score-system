@@ -22,7 +22,7 @@ UI ScreenShot in the file
 1. score datatype : float 
 2. Auto color change for detecting the wrong type in input Label  : 
 
-    1. without typing anything 
+    1.without typing anything 
     
     2.The member has been input
 
