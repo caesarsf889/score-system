@@ -1,10 +1,15 @@
 # This is the forth version's detail for Score System   
 
 Platform :      Window 10
+
 Building by - pyinstaller 3.6
+
 Python Verion : 3.7.6(conda)
+
 PyQt Version:  PyQt5 
+
 command line : pyinstalller -F -w scoresys.py
+
 
 
 
