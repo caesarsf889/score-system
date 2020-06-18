@@ -8,6 +8,8 @@ Python Verion : 3.7.6(conda)
 
 PyQt Version:  PyQt5 
 
+IDE :   Spyder
+
 command line : pyinstalller -F -w scoresys.py
 
 
