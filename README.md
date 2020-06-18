@@ -13,6 +13,9 @@ IDE :   Spyder
 command line : pyinstalller -F -w scoresys.py
 
 
+UI ScreenShot in the file
+
+
 
 
 #Include Function : 
