@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1187</width>
+    <height>854</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>STANDARD  CALCULATE</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>bck.jpg</normaloff>bck.jpg</iconset>
+  </property>
+  <widget class="QTextEdit" name="Score">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>190</y>
+     <width>201</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Algerian</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>160</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Algerian</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Score</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>40</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Algerian</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>NUMBER</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="Number">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>80</y>
+     <width>201</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Algerian</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="cal_btn">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>160</y>
+     <width>341</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Algerian</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Caculate Standard</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="add_btn">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>80</y>
+     <width>251</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Algerian</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Add Member</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="show_box">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>330</y>
+     <width>411</width>
+     <height>501</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Algerian</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="show_box_2">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>330</y>
+     <width>491</width>
+     <height>501</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Algerian</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="member_box">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>270</y>
+     <width>221</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Algerian</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
